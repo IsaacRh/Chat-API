@@ -2,3 +2,6 @@
 
 ## Init project
 > `$npm init`
+
+## Express Library Installation
+> `$npm i express`
